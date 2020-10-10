@@ -6,7 +6,7 @@ My name is Daniel Ruiz and I am in my last quarter in the UCLA Master's in Urban
 
 **Course Description**
 
-I created this file as a part of the Urban Planning 206A course. This course is titled "Introduction to GIS and Spatial Data Science". The purpose of this course is to grow familiar with how to utilize different data-science tools in order to better visual and explore different social phenomena. 
+I created this file as a part of the Urban Planning 206A course. This course is titled *Introduction to GIS and Spatial Data Science*. The purpose of this course is to grow familiar with how to utilize different data-science tools in order to better visual and explore different social phenomena. 
 
 **Data Science Project Idea**
 
